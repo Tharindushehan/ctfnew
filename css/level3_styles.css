@@ -1,0 +1,97 @@
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+.btn5{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 100%;
+  margin: 10px;
+}
+.btn6:focus{
+  background-color: red;
+}
+
+.btn6{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 200px;
+  margin: 10px;
+}
+
+.input5{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  margin: 10px;
+}
+
+.hintcard5{
+  float: left;
+	margin-top:150px;
+	margin-left:30px;
+	width : 40%;	
+	height:300px;
+	padding:30px;
+	color:white;
+	background-color: rgba(255, 255, 255, .2);  
+
+}
+
+.formCard5{
+  float: right;
+	margin-top:150px;
+	margin-left:30px;
+	width : 40%;	
+	height:600px;
+	padding:30px;
+	color:white;
+	background-color: rgba(255, 255, 255, .2);  
+
+}
+
+.hintcard{
+	margin-top:150px;
+	margin-left:30px;
+	width : 50%;	
+	height:300px;
+	padding:30px;
+	color:white;
+	background-color: rgba(255, 255, 255, .2);  
+
+}
+
+.formCard{
+	margin-top:150px;
+	margin-left:30px;
+	width : 50%;	
+	height:300px;
+	padding:30px;
+	color:white;
+	background-color: rgba(255, 255, 255, .2);  
+
+}

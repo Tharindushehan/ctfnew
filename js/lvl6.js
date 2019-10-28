@@ -1,0 +1,3 @@
+function evilClick(){
+    alert('clicked')
+}
